@@ -7,11 +7,9 @@ python3
 
 7zip(if you have 7 zip and it is not working with  script you need to specify it in  main.py"
 
-import os
-import re
-import random
-from pyvis import network as net
-from IPython.display import display, HTML
+
+
+
 steps
 
 need to drag and drop  into barotruama sub file (ex D:\steam\steamapps\common\Barotrauma\LocalMods or find your downloaded maps)
